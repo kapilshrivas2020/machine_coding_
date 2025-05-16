@@ -2,6 +2,6 @@ package model;
 
 public enum ParkingSpotType {
 	
-	TWO_WHEELER, FOUR_WHEELER
+	BIKE_SPOT, MEDIUM, COMPACT, LARGE
 
 }
